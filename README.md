@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 🖥️ Técnologo em andamento em Inteligência Artificial e Machine Learning
-- 🎓 Graduando em Ciências Contábeis na PUC
+- 🎓 Graduado em Ciências Contábeis na PUC
 - 📚 Estudando além da automação, JavaScript, Node.js, React, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
