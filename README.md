@@ -19,10 +19,10 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
